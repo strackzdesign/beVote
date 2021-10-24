@@ -7,7 +7,7 @@
 # Install #
 
 - Install the database before starting the website itself.
-- Change the database and user if needed. //fuctions.php
+- Change the database and user if needed. //fuctions.php - connectDB()
 - Good Luck !!
 
 # System Functions (functions.php) #
