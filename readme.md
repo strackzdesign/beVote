@@ -2,7 +2,7 @@
 
 - Login/Registration panel
 - Vote System
-- Basic Admin System //Add and Remove Candidates from the Database
+- Basic Admin System //Add and Remove Candidates from the Database, etc.
 
 # Install #
 
