@@ -1,8 +1,16 @@
+# beVote - Features #
+
+- Login/Registration panel
+- Vote System
+- Basic Admin //System Add/Remove Candidates from the Database
+
 # INSTALL #
 
-- Installer la base de données avant de initializer le site.
-- Aprés d'avoir la base de données connecté il faut juste ouvrir le site.
+- Install the database before starting the website itself.
+- Change the database and user if needed. //fuctions.php
+- Good Luck !!
 
+# SYSTEM FUNCTIONS(functions.php) #
 
-
-# GOOD LUCK #
+- connectDB() //Returns the connection to the database
+- checkAdmin($user_name) //U can create conditionals to check if the $user_name = $_SESSION['session_user'] is admin, the function will return true if the user is admin.
